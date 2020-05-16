@@ -1,0 +1,27 @@
+body {
+    background-image: url('https://br.habcdn.com/photos/quotation/gallery/arvore-p-livros-809880.jpg');
+  }
+  .menu {font-size: 50px;
+    background:
+    font-family: arial narrow;
+    font-size:
+    background-size: 
+  }
+  a{text-decoration: none;
+  }
+  a:hover {text-decoration: underline;
+  }
+  .menu li {
+    list-style: none;}
+  .menu ul{
+    display:flex;
+      justify-content: space-around;
+  }
+  .site-subtitle {
+    text-align: center;
+    color: black;
+  }
+  .site-title {
+    text-align: center;
+    color: black;}
+    
